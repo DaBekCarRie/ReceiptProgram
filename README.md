@@ -1,2 +1,8 @@
 # ReceiptProgram
-auto fill name,price, etc. in exel with python
+## ใช้ python GUI ช่วยในการกรอกข้อมูลในไฟล์ exel ที่มี template
+## กรอกข้อมูล
+* ชื่อ-นามสกุล
+* รายการ
+* วันที่
+
+## จะทำการกรอกข้อมูลลงใน template ให้ แล้ว save เป็นไฟล์โดยที่ run no. ไฟล์ให้
